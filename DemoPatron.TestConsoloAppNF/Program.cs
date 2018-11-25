@@ -13,9 +13,9 @@ namespace DemoPatron.TestConsoloAppNF
         {
             var Categories = new CategoryManager().
                 GetCategories();
-            int result=0;
+            int result = 0;
 
-            while (result!=1)
+            while (result != 1)
             {
                 foreach (var category in new CategoryManager().GetCategories())
                 {
@@ -24,10 +24,10 @@ namespace DemoPatron.TestConsoloAppNF
                 }
                 Console.WriteLine("Ingrese 1 para salir.");
                 result = int.Parse(Console.ReadLine());
-               
+
             }
 
-            
+
         }
     }
 }
