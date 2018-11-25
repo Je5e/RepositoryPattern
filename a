@@ -1,0 +1,36 @@
+[33mcommit 8aada5e43f3865c85d091acc2a262551fecbdb91[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: unknown <jalvarado@univo.edu.sv>
+Date:   Sun Nov 25 11:53:38 2018 -0600
+
+    Formato a Program.cs
+
+[33mcommit 0e8214662c11cdec43b3163e1e3cbccf77568642[m
+Merge: 5baa727 ea4aeac
+Author: unknown <jalvarado@univo.edu.sv>
+Date:   Sun Nov 25 10:28:25 2018 -0600
+
+    Merge branch 'master' of https://github.com/Je5e/RepositoryPattern
+
+[33mcommit 5baa7277f19c8223a877a9ce175778108cd9c5ad[m
+Author: unknown <jalvarado@univo.edu.sv>
+Date:   Sun Nov 25 10:26:28 2018 -0600
+
+    Remove MA project
+
+[33mcommit ea4aeac7f969131490ff9aa961ed153af9d00fdb[m
+Author: alvarado <45072377+Je5e@users.noreply.github.com>
+Date:   Sun Nov 25 10:21:25 2018 -0600
+
+    Create README.md
+
+[33mcommit b0dbf9778954a235f77ac56df4a4eedbf88aa77d[m
+Author: unknown <jalvarado@univo.edu.sv>
+Date:   Sun Nov 25 10:15:14 2018 -0600
+
+    Initial commit
+
+[33mcommit 8e8f11b03fcea6eab07af52d1f2a5272a92fa993[m
+Author: Grande <jalvarado@univo.edu.sv>
+Date:   Sun Nov 25 10:07:08 2018 -0600
+
+    Agregar .gitignore y .gitattributes.

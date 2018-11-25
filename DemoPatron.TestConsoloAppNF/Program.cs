@@ -11,8 +11,8 @@ namespace DemoPatron.TestConsoloAppNF
     {
         static void Main(string[] args)
         {
-            var Categories = new CategoryManager().
-                GetCategories();
+            //var Categories = new CategoryManager().
+            //    GetCategories();
             int result = 0;
 
             while (result != 1)
