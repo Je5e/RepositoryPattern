@@ -9,6 +9,9 @@ namespace DemoPatron.Repository
         // int es un tipo valor, clases son tipos refr. string is ref
         IEnumerable<T> GetAll(string query);
 
+        // Implementen este método
+        int SaveData(string query, T dada);
+
        
     }
 }
